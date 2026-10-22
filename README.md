@@ -1,0 +1,2 @@
+# WinTAVRYNEXO2026
+Icon
